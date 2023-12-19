@@ -1,0 +1,12 @@
+# gradle
+build
+.gradle
+
+# other
+.vscode
+run
+run-data
+
+# Files from Forge MDK
+forge*changelog.txt
+modrinth_token.txt
