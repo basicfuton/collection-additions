@@ -3,6 +3,7 @@ build
 .gradle
 
 # other
+.vscode.launch.json
 run
 run-data
 
